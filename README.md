@@ -1,5 +1,5 @@
 # ulorawan
-A project aiming to brin th TTN Network to MicorPython.
+A project aiming to bring the TTN Network to MicorPython.
 
 ## Hardware
 - Raspberry Pi Pico (RP2040)
